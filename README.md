@@ -25,3 +25,9 @@ Este proyecto es una implementación del clásico juego de Tic-Tac-Toe (Tres en 
 ### Buenas prácticas
 Asegúrate de usar la menor cantidad de memoria posible.
 Sigue las convenciones de buenas prácticas en Java.
+
+### Resultado
+Te damos una muestra del resultado que debes obtener
+
+https://github.com/FemCoders/java-ticTacToc/assets/73828751/a9c77261-c447-41f4-94ba-398b93bd216b
+
