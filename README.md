@@ -25,3 +25,12 @@ Este proyecto es una implementación del clásico juego de Tic-Tac-Toe (Tres en 
 ### Buenas prácticas
 Asegúrate de usar la menor cantidad de memoria posible.
 Sigue las convenciones de buenas prácticas en Java.
+
+### Bonus
+¿Terminaste el reto? 
+¿Te animas a testearlo?
+
+### Tests
+Si ya has terminado el reto y quieres hacer tests unitarios para avanzar en tu proceso de aprendizaje, te recomiendo que uses lo siguiente:
+- Maven: como herramienta de gestión de proyectos 
+- JUnit: como paquete de testing
