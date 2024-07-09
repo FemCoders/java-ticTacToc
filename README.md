@@ -34,3 +34,9 @@ Sigue las convenciones de buenas prácticas en Java.
 Si ya has terminado el reto y quieres hacer tests unitarios para avanzar en tu proceso de aprendizaje, te recomiendo que uses lo siguiente:
 - Maven: como herramienta de gestión de proyectos 
 - JUnit: como paquete de testing
+
+### Resultado
+Te damos una muestra del resultado que debes obtener
+
+https://github.com/FemCoders/java-ticTacToc/assets/73828751/a9c77261-c447-41f4-94ba-398b93bd216b
+
